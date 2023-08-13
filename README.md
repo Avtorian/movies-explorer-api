@@ -8,4 +8,4 @@
 
 IP 84.201.162.62
 
-Backend https://api.avtorian.nomoredomains.sbs
+Backend https://api.avtorian.nomoreparties.co
