@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 mongoose.connect(mongoAdress);
-app.use(cors({ origin: 'https://avtorian.nomoredomains.sbs' }));
+app.use(cors({ origin: 'https://avtorian.nomoreparties.co' }));
 
 app.use(requestLogger);
 
